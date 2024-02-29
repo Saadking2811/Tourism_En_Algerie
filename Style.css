@@ -1,0 +1,109 @@
+#All{
+    overflow: hidden;
+    width: 100%;
+    height: 8733px; 
+    position: relative;
+    background: white;
+    overflow: hidden;
+}
+#Home{
+   width: 1728px; 
+   height: 943px; 
+   left: -5px; 
+   top: -27px; 
+   background-repeat: no-repeat;
+   background-size: cover;
+   position: absolute;
+}
+.Back-image{
+   width: 1728px; 
+   height: 943px; 
+   left: 0px; 
+   top: 0px; 
+   position: absolute;
+}
+.First-link{
+  background-color:transparent;
+  color: rgb(255, 179, 0);
+  padding: 20px;
+  text-decoration: none;
+  border: 2px;
+  border-radius: 10px;
+  box-shadow:1cqmin;
+  font-size: 24px; 
+  font-family: Urbanist; 
+  font-weight: 400; 
+  word-wrap: break-word;
+}
+.First-link:hover{
+   background-color: rgba(150, 157, 254, 0.6);
+   color: rgb(255, 255, 255);
+}
+#email-button{
+   width: 250px;
+   height: 40px; 
+   padding: 8.6px;
+   margin: auto;
+   position: absolute; 
+   opacity: 0.20; 
+   color: #000000; 
+   font-size: 16px; 
+   font-family: Manrope; 
+   font-weight: 500; 
+   line-height: 26px; 
+   word-wrap: break-word;
+   border-color: #0D0D0D;
+   background-color: rgba(25, 27, 60, 0.2);
+}
+
+.Subscribe{
+   width: 106px; 
+   height: 32px; 
+   padding-top: 13px; 
+   padding-bottom: 13px; 
+   left: 283px; 
+   top: 0px; 
+   position: absolute; 
+   background: #F48E22; 
+   border-radius: 4px; 
+   flex-direction: column; 
+   justify-content: center; 
+   align-items: center; 
+   gap: 10px; 
+   display: inline-flex;
+}
+.Subscribe:hover{
+   background: rgb(82, 55, 16);
+}
+.Search{
+   width: 552px; 
+   height: 48px; 
+   padding-left: 46px; 
+   padding-right: 46px; 
+   padding-top: 21px; 
+   padding-bottom: 21px; 
+   left: 480px; 
+   top: 659px; 
+   position: absolute; 
+   background: rgba(150, 157, 254, 0.6); 
+   border-radius: 80px; 
+   border: 1px white solid; 
+   justify-content: space-between; 
+   align-items: center; 
+   display: inline-flex;
+}
+.Search:hover{
+   background-size: 100%;
+   background:  rgb(178, 190, 43);
+
+}
+.view:hover{
+   background:  rgba(255, 107, 43, 0.6);
+
+}
+.JoinUs:hover{
+   background:  rgba(255, 107, 43, 0.6);
+}
+div.Recent:hover{
+   background:  rgba(255, 107, 43, 0.6);
+}
